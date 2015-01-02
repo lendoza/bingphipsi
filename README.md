@@ -1,5 +1,5 @@
 bingphipsi.com
 ==========
-This site was built for my fraterntiy, Phi Kappa Psi. 
+This site was built for the Phi Kappa Psi Fraternity at Binghamton University
 
-It displays our history, upcoming events, and much more. 
+It displays the history of the chapter, upcoming events, and reasons to consider joining.
