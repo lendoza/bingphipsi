@@ -9,6 +9,6 @@ bingphipsi.com
 
 ## Contact
 
-* Homepage: leonardlabita.com
+* Homepage: http://leonardlabita.com
 * e-mail: labita.leonard@gmail.com
 * Instagram: https://instagram.com/lendoza
