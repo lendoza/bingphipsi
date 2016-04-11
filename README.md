@@ -1,5 +1,14 @@
 bingphipsi.com
-==========
-This site was built for the Phi Kappa Psi Fraternity at Binghamton University
+======
+**bingphipsi.com** is the first website I ever built. The purpose of this website is to inform visitors of the core values and history of the Phi Kappa Psi fraternity at Binghamton University.
 
-It displays the history of the chapter, upcoming events, and reasons to consider joining.
+## Technology
+* HTML5
+* CSS3
+* Jquery
+
+## Contact
+
+* Homepage: leonardlabita.com
+* e-mail: labita.leonard@gmail.com
+* Instagram: https://instagram.com/lendoza
